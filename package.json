@@ -1,0 +1,17 @@
+{
+  "name": "learn-browser-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "locate-chrome": "^0.1.1",
+    "puppeteer": "^19.1.0"
+  }
+}
